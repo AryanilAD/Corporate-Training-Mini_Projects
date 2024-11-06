@@ -1,2 +1,2 @@
 # Corporate-Training-Mini_Projects
-This repository contains all the assignments and mini projects related to the chools corporate training 
+This repository contains all the projects and mini projects related to the chools corporate training 
